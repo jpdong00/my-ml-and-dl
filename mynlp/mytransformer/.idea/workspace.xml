@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b69d20e2-8b54-43bc-b94f-ac342408bf45" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1diyJ8UgaKa3VeSWqDILLlVXOZf" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.run">
+    <configuration name="module" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="mytransformer" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$USER_HOME$/anaconda3/envs/pytorch/lib/python3.7/site-packages/torch/nn/modules" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$USER_HOME$/anaconda3/envs/pytorch/lib/python3.7/site-packages/torch/nn/modules/module.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="run" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="mytransformer" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/run.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="mytransformer" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="transformer" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="mytransformer" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/model" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/transformer.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.run" />
+        <item itemvalue="Python.transformer" />
+        <item itemvalue="Python.test" />
+        <item itemvalue="Python.module" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b69d20e2-8b54-43bc-b94f-ac342408bf45" name="Default Changelist" comment="" />
+      <created>1592922133828</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1592922133828</updated>
+      <workItem from="1592922137363" duration="16637000" />
+      <workItem from="1593701156212" duration="36411000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1398" height="284" key="GridCell.Tab.0.bottom" timestamp="1594350780354">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="300" key="GridCell.Tab.0.bottom/-1116.101.1116.756/0.0.1440.900@0.0.1440.900" timestamp="1594002859493" />
+    <state width="1398" height="284" key="GridCell.Tab.0.bottom/-1116.124.1116.733/0.0.1440.900@0.0.1440.900" timestamp="1594001975461" />
+    <state width="1398" height="284" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1594350780354" />
+    <state width="1398" height="284" key="GridCell.Tab.0.center" timestamp="1594350780353">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="300" key="GridCell.Tab.0.center/-1116.101.1116.756/0.0.1440.900@0.0.1440.900" timestamp="1594002859491" />
+    <state width="1398" height="284" key="GridCell.Tab.0.center/-1116.124.1116.733/0.0.1440.900@0.0.1440.900" timestamp="1594001975458" />
+    <state width="1398" height="284" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1594350780353" />
+    <state width="1398" height="284" key="GridCell.Tab.0.left" timestamp="1594350780351">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="300" key="GridCell.Tab.0.left/-1116.101.1116.756/0.0.1440.900@0.0.1440.900" timestamp="1594002859490" />
+    <state width="1398" height="284" key="GridCell.Tab.0.left/-1116.124.1116.733/0.0.1440.900@0.0.1440.900" timestamp="1594001975455" />
+    <state width="1398" height="284" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1594350780351" />
+    <state width="1398" height="284" key="GridCell.Tab.0.right" timestamp="1594350780354">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="300" key="GridCell.Tab.0.right/-1116.101.1116.756/0.0.1440.900@0.0.1440.900" timestamp="1594002859492" />
+    <state width="1398" height="284" key="GridCell.Tab.0.right/-1116.124.1116.733/0.0.1440.900@0.0.1440.900" timestamp="1594001975460" />
+    <state width="1398" height="284" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1594350780354" />
+    <state width="1398" height="284" key="GridCell.Tab.1.bottom" timestamp="1594350780355">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="284" key="GridCell.Tab.1.bottom/-1116.101.1116.756/0.0.1440.900@0.0.1440.900" timestamp="1594002579940" />
+    <state width="1398" height="284" key="GridCell.Tab.1.bottom/-1116.124.1116.733/0.0.1440.900@0.0.1440.900" timestamp="1594001977419" />
+    <state width="1398" height="284" key="GridCell.Tab.1.bottom/0.0.1440.900@0.0.1440.900" timestamp="1594350780355" />
+    <state width="1398" height="284" key="GridCell.Tab.1.center" timestamp="1594350780355">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="284" key="GridCell.Tab.1.center/-1116.101.1116.756/0.0.1440.900@0.0.1440.900" timestamp="1594002579939" />
+    <state width="1398" height="284" key="GridCell.Tab.1.center/-1116.124.1116.733/0.0.1440.900@0.0.1440.900" timestamp="1594001977418" />
+    <state width="1398" height="284" key="GridCell.Tab.1.center/0.0.1440.900@0.0.1440.900" timestamp="1594350780355" />
+    <state width="1398" height="284" key="GridCell.Tab.1.left" timestamp="1594350780354">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="284" key="GridCell.Tab.1.left/-1116.101.1116.756/0.0.1440.900@0.0.1440.900" timestamp="1594002579938" />
+    <state width="1398" height="284" key="GridCell.Tab.1.left/-1116.124.1116.733/0.0.1440.900@0.0.1440.900" timestamp="1594001977417" />
+    <state width="1398" height="284" key="GridCell.Tab.1.left/0.0.1440.900@0.0.1440.900" timestamp="1594350780354" />
+    <state width="1398" height="284" key="GridCell.Tab.1.right" timestamp="1594350780355">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="284" key="GridCell.Tab.1.right/-1116.101.1116.756/0.0.1440.900@0.0.1440.900" timestamp="1594002579940" />
+    <state width="1398" height="284" key="GridCell.Tab.1.right/-1116.124.1116.733/0.0.1440.900@0.0.1440.900" timestamp="1594001977418" />
+    <state width="1398" height="284" key="GridCell.Tab.1.right/0.0.1440.900@0.0.1440.900" timestamp="1594350780355" />
+    <state x="221" y="89" key="SettingsEditor" timestamp="1592924276741">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="221" y="89" key="SettingsEditor/-1116.101.1116.756/0.0.1440.900@0.0.1440.900" timestamp="1592924276741" />
+    <state width="720" height="500" key="XDebugger.FullValuePopup" timestamp="1594014231043">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="720" height="450" key="XDebugger.FullValuePopup/-1116.124.1116.733/0.23.1440.811@0.23.1440.811" timestamp="1593960841339" />
+    <state width="720" height="500" key="XDebugger.FullValuePopup/0.0.1440.900@0.0.1440.900" timestamp="1594014231043" />
+    <state x="301" y="175" width="837" height="550" key="find.popup" timestamp="1593704881348">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="301" y="175" width="837" height="550" key="find.popup/0.0.1440.900@0.0.1440.900" timestamp="1593704881348" />
+    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup" timestamp="1594039206125">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup/0.0.1440.900@0.0.1440.900" timestamp="1594039206125" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/mytransformer$test.coverage" NAME="test Coverage Results" MODIFIED="1594003229972" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/mytransformer$train.coverage" NAME="train Coverage Results" MODIFIED="1594039369725" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/mytransformer$module.coverage" NAME="module Coverage Results" MODIFIED="1594001162014" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/anaconda3/envs/pytorch/lib/python3.7/site-packages/torch/nn/modules" />
+    <SUITE FILE_PATH="coverage/mytransformer$transformer.coverage" NAME="transformer Coverage Results" MODIFIED="1594014963190" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/model" />
+  </component>
+</project>
